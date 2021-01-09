@@ -20,7 +20,16 @@
 </div>
 <div page-model="@Model.PagingInfo" page-action="Index" page-url-categoryId="@Model.CategoryId">
 </div>
-
+@section Scripts{ 
+  <script>
+      $(document).ready(function () {
+          $('.sepet').on('click', function () {
+              alertify.set('notifier', 'position', 'bottom-center');
+              alertify.success('Ürün sepete eklendi...');
+          });
+      });
+  </script>
+}
  
 
 
