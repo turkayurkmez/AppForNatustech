@@ -1,0 +1,47 @@
+﻿@model IEnumerable<IntrodotnetCore.Models.Product>
+<html>
+<head>
+
+</head>
+<body>
+    <h1>Ana sayfa</h1>
+    <p>Merhaba</p>
+    <p>@ViewBag.Isim şu an saat @ViewBag.Saat</p>
+    @if (ViewBag.Saat < 12)
+    {
+        <p>Günaydın</p>
+    }
+    else
+    {
+        <p>İyi Günler</p>
+    }
+    <h3>Ürünler:</h3>
+    @*<ul>
+        @foreach (var item in ViewBag.Urunler)
+        {
+            <li>@item.ToUpper()</li>
+        }
+    </ul>*@
+    <table>
+        <thead>
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Fiyat</th>
+                <th>Açıklama</th>
+                <th>Puan</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+               <tr>
+                   <td>@item.Name</td>
+                   <td>@item.Price</td>
+                   <td>@item.Description</td>
+                   <td>@item.Rating</td>
+               </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

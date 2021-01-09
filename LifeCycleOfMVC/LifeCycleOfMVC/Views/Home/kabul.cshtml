@@ -1,0 +1,16 @@
+﻿@model YanitModel
+@{
+   
+}
+
+
+    @if (Model.KatilimDurumu)
+    {
+        <p>Çok sevindik! Orada görüşürüz!</p>
+    }
+    else
+    {
+        <p>Buna üzüldük :( Kısmet değilmiş...</p>
+    }
+
+<a asp-action="Katilacaklar">Gelenler</a>

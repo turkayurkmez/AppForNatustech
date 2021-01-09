@@ -1,0 +1,14 @@
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.Business.deps.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.Business.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.Business.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\obj\Debug\netcoreapp3.1\Natustech.Store.Business.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Business\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.pdb

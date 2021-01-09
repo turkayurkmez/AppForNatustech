@@ -1,0 +1,27 @@
+﻿@model ProductListViewModel
+@{
+    ViewData["Title"] = "Home Page";
+    var itemCount = 0;
+}
+
+<div class="row">
+    @foreach (var item in Model.Products)
+    {
+        if (itemCount != 0 && itemCount % 4 == 0)
+        {
+        @:</div>
+        @:<div class="row">
+        }
+        <partial name="_ProductCart" model="@item" />
+        itemCount++;
+    }
+
+
+</div>
+<div page-model="@Model.PagingInfo" page-action="Index" page-url-categoryId="@Model.CategoryId">
+</div>
+
+ 
+
+
+

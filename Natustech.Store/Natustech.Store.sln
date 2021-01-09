@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natustech.Store", "Natustech.Store\Natustech.Store.csproj", "{743427A1-5F6C-4463-9BE7-C384E7067D75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{EEF6D483-A040-4043-915A-AE03DEB71A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natustech.Store.Business", "Natustech.Store.Business\Natustech.Store.Business.csproj", "{FE859A01-73A8-45F1-AFF4-19C0B24058DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{76D6347C-CCF3-4223-8AF9-8299DE130488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natustech.Store.DataAccess", "Natustech.Store.DataAccess\Natustech.Store.DataAccess.csproj", "{0CBB994E-AFDD-43F1-823B-136689619B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Natustech.Store.Domain", "Natustech.Store.Domain\Natustech.Store.Domain.csproj", "{AC547C32-7E3B-4D38-8BB9-97E61730E4D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743427A1-5F6C-4463-9BE7-C384E7067D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743427A1-5F6C-4463-9BE7-C384E7067D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743427A1-5F6C-4463-9BE7-C384E7067D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743427A1-5F6C-4463-9BE7-C384E7067D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE859A01-73A8-45F1-AFF4-19C0B24058DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE859A01-73A8-45F1-AFF4-19C0B24058DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE859A01-73A8-45F1-AFF4-19C0B24058DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE859A01-73A8-45F1-AFF4-19C0B24058DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBB994E-AFDD-43F1-823B-136689619B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBB994E-AFDD-43F1-823B-136689619B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBB994E-AFDD-43F1-823B-136689619B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBB994E-AFDD-43F1-823B-136689619B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC547C32-7E3B-4D38-8BB9-97E61730E4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC547C32-7E3B-4D38-8BB9-97E61730E4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC547C32-7E3B-4D38-8BB9-97E61730E4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC547C32-7E3B-4D38-8BB9-97E61730E4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE859A01-73A8-45F1-AFF4-19C0B24058DB} = {EEF6D483-A040-4043-915A-AE03DEB71A6D}
+		{0CBB994E-AFDD-43F1-823B-136689619B28} = {76D6347C-CCF3-4223-8AF9-8299DE130488}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8254C59-5CD3-4207-A348-BCB64BB111D0}
+	EndGlobalSection
+EndGlobal

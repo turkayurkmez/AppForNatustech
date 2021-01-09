@@ -1,0 +1,13 @@
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.exe
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.deps.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\bin\Debug\netcoreapp3.1\SomeFeatures.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\SomeFeatures\SomeFeatures\obj\Debug\netcoreapp3.1\SomeFeatures.genruntimeconfig.cache

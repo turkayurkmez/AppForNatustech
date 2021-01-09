@@ -1,0 +1,33 @@
+﻿@model YanitModel
+@{
+   
+}
+
+
+    <form method="post">
+        <p>
+            <label for="Ad">Adınız</label>
+            <input asp-for="Ad" value="" />
+            <span asp-validation-for="Ad"></span>
+
+        </p>
+        <p>
+            <label for="Eposta">Eposta</label>
+            <input asp-for="Eposta" value="" />
+            <span asp-validation-for="Eposta"></span>
+
+        </p>
+        <p>
+            <label for="Telefon">Telefon</label>
+            <input  asp-for="Telefon" value="" />
+            <span asp-validation-for="Telefon"></span>
+        </p>
+        <p>
+            <label>Katılacak mısınız?</label>
+            <select asp-for="KatilimDurumu" asp-items="(IEnumerable<SelectListItem>)@ViewBag.Items"></select>
+        </p>
+        <p>
+            <input type="submit" name="name" value="Yanıt ver" />
+        </p>
+    </form>
+

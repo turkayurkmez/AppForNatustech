@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Natustech.Store.Domain.Category>
+<div class="list-group">
+    <a asp-action="Index" asp-controller="Home"  class="list-group-item list-group-item-action">Ana Sayfa</a>
+    @foreach (var category in Model)
+    {
+        <a asp-action="Index" asp-controller="Home" asp-route-categoryId="@category.Id"  class="list-group-item list-group-item-action">@category.Name</a>
+    }
+</div>

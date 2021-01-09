@@ -1,0 +1,9 @@
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.deps.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.Domain\obj\Debug\netcoreapp3.1\Natustech.Store.Domain.pdb

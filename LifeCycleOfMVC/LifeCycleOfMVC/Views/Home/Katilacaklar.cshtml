@@ -1,0 +1,28 @@
+﻿@model IEnumerable<YanitModel>
+@{
+
+}
+
+@if (Model.Count() == 0)
+{
+    <div class="alert alert-danger">
+        Henüz yanıt eklenmedi!
+    </div>
+}
+else
+{
+    <h3>Katılacaklar listesi</h3>
+    <table class="table table-striped">
+        <tbody>
+            @foreach (var yanit in Model)
+            {
+                <tr>
+                    <td>@yanit.Ad</td>
+                    <td>@yanit.Eposta</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+

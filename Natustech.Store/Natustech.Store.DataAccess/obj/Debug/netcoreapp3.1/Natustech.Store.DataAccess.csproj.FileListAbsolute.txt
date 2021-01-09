@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.deps.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.Domain.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\bin\Debug\netcoreapp3.1\Natustech.Store.DataAccess.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store.DataAccess\obj\Debug\netcoreapp3.1\Natustech.Store.DataAccess.genruntimeconfig.cache
