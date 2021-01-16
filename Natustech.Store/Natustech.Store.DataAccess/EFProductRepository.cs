@@ -39,7 +39,7 @@ namespace Natustech.Store.DataAccess
 
         public Product GetById(int id)
         {
-            throw new NotImplementedException();
+            return dbContext.Products.Find(id);
         }
 
         public IList<Product> GetProductsByName(string name)

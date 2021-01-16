@@ -7,5 +7,7 @@ namespace Natustech.Store.Business
     {
         List<Product> GetProducts();
         IList<Product> GetProductsByCategoryId(int value);
+        Product GetProductById(int id);
+        void AddProduct(Product product);
     }
 }

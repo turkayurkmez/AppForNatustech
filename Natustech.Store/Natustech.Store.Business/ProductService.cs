@@ -16,6 +16,12 @@ namespace Natustech.Store.Business
         {
             this.productRepository = productRepository;
         }
+
+        public Product GetProductById(int id)
+        {
+            return productRepository.GetById(id);
+        }
+
         public List<Product> GetProducts()
         {
             return productRepository.GetAllEntities().ToList();

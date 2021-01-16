@@ -1,0 +1,56 @@
+﻿@model Cart
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Ürün Adı</th>
+            <th>Fiyat</th>
+            <th>Adet</th>
+            <th>Ara Toplam</th>
+            <th></th>
+        </tr>
+       
+    </thead>
+    <tbody>
+        @foreach (var productInCart in Model.Products)
+        {
+        <tr>
+            <td>@productInCart.Product.Name</td>
+            <td>@productInCart.Product.Price</td>
+            <td>@productInCart.Quantity</td>
+            <td>@(productInCart.Product.Price * productInCart.Quantity) TL</td>
+            <td><button class="btn btn-danger sil" data-id="@productInCart.Product.Id">Sil</button></td>
+        </tr>
+        }
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3">Toplam Tutar:</td>
+            <td>@Model.GetTotalValue() TL</td>
+            <td></td>
+        </tr>
+    </tfoot>
+</table>
+@section Scripts{ 
+    <script>
+        $(document).ready(function () {
+            $('.sil').on('click', function () {
+                let id = $(this).data('id');
+                $.ajax({
+                    url: '/Cart/RemoveCart/' + id,
+                    method: 'GET',
+                    contentType: 'application/json',
+                    success: function (data) {
+                        if (data === "OK") {
+                            alertify.alert("Ürün sepetten kaldırıldı", () => location = location);
+                            
+                        }
+                    },
+                    error: function (err) {
+                        console.log(err);
+                    }
+                });
+            });
+        });
+    </script>
+}

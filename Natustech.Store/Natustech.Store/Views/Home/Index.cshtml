@@ -24,8 +24,24 @@
   <script>
       $(document).ready(function () {
           $('.sepet').on('click', function () {
-              alertify.set('notifier', 'position', 'bottom-center');
-              alertify.success('Ürün sepete eklendi...');
+              let productId = $(this).data('id');
+              let name = $(this).data('name');
+              $.ajax({
+                  url: '/Cart/AddToCart/' + productId,
+                  method: 'GET',
+                  contentType: 'application/json',
+                  success: function (data) {
+                      if (data === 'OK') {
+                          alertify.set('notifier', 'position', 'bottom-center');
+                          alertify.success(name + ' sepete eklendi...');
+                      }                     
+                    
+                  },
+                  error: function (err) {
+                      console.log(err);
+                  }
+              });
+            
           });
       });
   </script>

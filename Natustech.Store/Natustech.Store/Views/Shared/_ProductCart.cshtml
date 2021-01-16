@@ -5,7 +5,7 @@
             <img src="@Model.ImageUrl" class="card-img-top" />
             <p class="card-title">@Model.Name @Model.Description</p>
             <p class="text-danger">@Model.Price TL | @(Model.Price * (1- Model.Discount)) TL </p>
-            <button class="btn btn-success sepet">Sepete Ekle</button>
+            <button class="btn btn-success sepet" data-id="@Model.Id" data-name="@Model.Name">Sepete Ekle</button>
         </div>
     </div>
 </div>
