@@ -17,6 +17,12 @@ namespace Natustech.Store.Business
             this.productRepository = productRepository;
         }
 
+        public Product AddProduct(Product product)
+        {
+           var addedProduct =  productRepository.Add(product);
+            return addedProduct;
+        }
+
         public Product GetProductById(int id)
         {
             return productRepository.GetById(id);
@@ -30,6 +36,12 @@ namespace Natustech.Store.Business
         public IList<Product> GetProductsByCategoryId(int categoryId)
         {
             return productRepository.GetAllEntities(x => x.CategoryId == categoryId);
+        }
+
+        public void Update(Product product)
+        {
+            productRepository.Update(product);
+
         }
     }
 }

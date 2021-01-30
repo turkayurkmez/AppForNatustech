@@ -185,3 +185,5 @@ C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natuste
 C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
 C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\Natustech.Store\Natustech.Store\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs

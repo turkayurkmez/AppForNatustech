@@ -1,0 +1,41 @@
+C:\app\build\appsettings.Development.json
+C:\app\build\appsettings.json
+C:\app\build\Introdotnetcore.exe
+C:\app\build\Introdotnetcore.deps.json
+C:\app\build\Introdotnetcore.runtimeconfig.json
+C:\app\build\Introdotnetcore.runtimeconfig.dev.json
+C:\app\build\Introdotnetcore.dll
+C:\app\build\Introdotnetcore.pdb
+C:\app\build\Introdotnetcore.Views.dll
+C:\app\build\Introdotnetcore.Views.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.csprojAssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.RazorAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.RazorAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\staticwebassets\Introdotnetcore.StaticWebAssets.Manifest.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\staticwebassets\Introdotnetcore.StaticWebAssets.xml
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\scopedcss\bundle\Introdotnetcore.styles.css
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.TagHelpers.input.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.TagHelpers.output.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.RazorCoreGenerate.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.RazorTargetAssemblyInfo.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.RazorTargetAssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.Views.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\obj\Release\netcoreapp3.1\Introdotnetcore.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.exe
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.deps.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.pdb
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.Views.dll
+C:\Users\turka\source\repos\Kurumsal\Natustech\.NET Core\IntrodotnetCore\IntrodotnetCore\bin\Release\netcoreapp3.1\Introdotnetcore.Views.pdb

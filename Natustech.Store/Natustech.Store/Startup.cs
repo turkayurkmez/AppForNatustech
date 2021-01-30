@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -36,6 +37,12 @@ namespace Natustech.Store
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<ICategoryRepository, EFCategoryRepository>();
 
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                    .AddCookie(option =>
+                    {
+                        option.LoginPath = "/Account/Login";
+                    });
+
             services.AddSession();
         }
 
@@ -57,7 +64,9 @@ namespace Natustech.Store
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
+         
 
             app.UseSession();
 

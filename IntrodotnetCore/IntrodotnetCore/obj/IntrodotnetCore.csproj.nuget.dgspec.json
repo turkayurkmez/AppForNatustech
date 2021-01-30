@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\IntrodotnetCore.csproj": {}
+    "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\Introdotnetcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\IntrodotnetCore.csproj": {
+    "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\Introdotnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\IntrodotnetCore.csproj",
-        "projectName": "IntrodotnetCore",
-        "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\IntrodotnetCore.csproj",
+        "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\Introdotnetcore.csproj",
+        "projectName": "Introdotnetcore",
+        "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\Introdotnetcore.csproj",
         "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Natustech\\.NET Core\\IntrodotnetCore\\IntrodotnetCore\\obj\\",
         "projectStyle": "PackageReference",

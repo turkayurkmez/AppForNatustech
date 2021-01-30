@@ -19,7 +19,9 @@ namespace Natustech.Store.DataAccess
 
         public Product Add(Product entity)
         {
-            throw new NotImplementedException();
+            dbContext.Add(entity);
+            dbContext.SaveChanges();
+            return entity;
         }
 
         public Product Delete(int id)
@@ -49,7 +51,10 @@ namespace Natustech.Store.DataAccess
 
         public Product Update(Product entity)
         {
-            throw new NotImplementedException();
+            
+            dbContext.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            dbContext.SaveChanges();
+            return entity;
         }
     }
 }

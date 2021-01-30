@@ -1,0 +1,9 @@
+C:\app\publish\Introdotnetcore.exe
+C:\app\publish\appsettings.Development.json
+C:\app\publish\appsettings.json
+C:\app\publish\Introdotnetcore.dll
+C:\app\publish\Introdotnetcore.deps.json
+C:\app\publish\Introdotnetcore.runtimeconfig.json
+C:\app\publish\Introdotnetcore.pdb
+C:\app\publish\Introdotnetcore.Views.dll
+C:\app\publish\Introdotnetcore.Views.pdb

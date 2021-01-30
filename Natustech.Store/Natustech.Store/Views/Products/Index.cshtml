@@ -67,7 +67,7 @@
                 </td>
 
                 <td>
-                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    <a asp-action="Edit" asp-controller="Products" asp-route-id="@item.Id">Güncelle</a> |
                     @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
                     @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
                 </td>
@@ -104,6 +104,44 @@
                     $('#modalBody').html(data);
                 });
                 $('#exampleModal').modal('show');
+            });
+
+            $('#buttonSave').on('click', function () {
+                let antiforgeryTokenValue = $('input[__RequestVerificationToken]').val();
+                let gidecekData = {                  
+                    Name: $('#Name').val(),
+                    Description: $('#Description').val(),
+                    Price: $('#Price').val(),
+                    Rating: $('#Rating').val(),
+                    ImageUrl: $('#ImageUrl').val(),
+                    Discount: $('#Discount').val(),
+                    ProductInfo: $('#ProductInfo').val(),
+                    StockCount: $('#StockCount').val(),
+                    OrderNumber: $('#OrderNumber').val(),
+                    CategoryId: $('#CategoryId').val(),
+                };
+
+               
+
+                console.log(JSON.stringify(gidecekData));
+                //console.log(data);
+
+                $.ajax({
+                    url: '/Products/Create',
+                    method: 'POST',
+                    data: gidecekData,
+                    dataType:'json',
+                    success: function (data) {
+                        $('#exampleModal').modal('hide');
+                        alertify.alert(data + ' isimli ürün başarıyla eklendi', function () {
+                            location = location;
+                        });
+                    },
+                    error: function (hata) {
+                        console.log(hata);
+                    }
+
+                })
             });
         });
     </script>
